@@ -3,12 +3,12 @@
 
 ## **基于 框架 [Hexo](https://hexo.io/zh-cn/) | 主题 [Butterfly](https://github.com/jerryc127/hexo-theme-butterfly)**
 
-### **本地启动**
+### **本地启动：**
 ```
 hexo clean && hexo g && gulp && hexo s
 ```
 
-### **远程部署**
+### **远程部署：**
 ```
 hexo clean && hexo g && gulp && hexo d
 ```
