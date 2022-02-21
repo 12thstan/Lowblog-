@@ -1,5 +1,4 @@
-# Lowblog-
-**Lowblog源码**
+# Lowblog源码
 
 ## **基于 框架 [Hexo](https://hexo.io/zh-cn/) | 主题 [Butterfly](https://github.com/jerryc127/hexo-theme-butterfly)**
 
