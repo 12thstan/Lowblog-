@@ -15,6 +15,12 @@ hexo clean && hexo g && gulp && hexo d
 ---
 
 ### **需知：**
+**解压后必需在博客目录下安装以下内容：**
+```
+npm install
+```
+---
+
 如果在本地启动报错，需要安装以下内容：
 ```
 npm install --global gulp-cli
