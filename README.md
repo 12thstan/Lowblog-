@@ -42,11 +42,11 @@ npm install hexo-butterfly-wowjs --save
 
 ```
 
----
+安装后出现如果出现以下内容，
 
-*" run `npm audit fix` to fix them, or `npm audit` for details "*
+> *" run `npm audit fix` to fix them, or `npm audit` for details "*
 
-安装后出现如果出现上述内容，需要安装以下内容：
+需要安装：
 ```
 npm audit fix
 npm audit fix --force
