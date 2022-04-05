@@ -91,7 +91,7 @@ favicon: /img/123.png
 
 # Avatar (頭像)
 avatar:
-  img: https://github.com/12thstan/js/blob/main/img/202203071633899.gif
+  img: https://cdn.jsdelivr.net/gh/12thstan/js@1.1.2/img/202203071633899.gif
   effect: false
 
 # the banner image of home page
